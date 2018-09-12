@@ -1,3 +1,3 @@
 # Hello_World
 
-I am first introduction to working on opensource projects!I am first step to code world!!
+My first introduction to working on open source projects!My first step to the code world!!
